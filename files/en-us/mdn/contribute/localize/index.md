@@ -1,3 +1,4 @@
+[body class mcm.docx](https://github.com/mdn/content/files/8190777/body.class.mcm.docx)
 ---
 title: Localizing MDN
 slug: MDN/Contribute/Localize
